@@ -2,9 +2,9 @@
 Author - Swanand Mhalagi
 This is a 32-bit MIPS binary disassembler.
 
-1)	MIPS-CProgram.cpp			C++ source file 
-2)	Input					text file already containing input.
-3)	Output 				text file (program creates this file if not available in the folder)             
+1)	MIPS-CProgram.cpp			    C++ source file 
+2)	Input					            text file already containing input.
+3)	Output 				            text file (program creates this file if not available in the folder)             
 
 Steps to run the project
 
