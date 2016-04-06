@@ -1,10 +1,9 @@
 ﻿# MIPS --- Disassembler
 Author - Swanand Mhalagi
-This was my Computer Architecture Course Project 
-
-Later I developed the same code for python just for fun.
 
 This is a 32-bit MIPS binary disassembler.
+
+This was my Computer Architecture Course Project developed in C and C++. Later I developed the same code for python just for fun.
 
 1)	MIPS-CProgram.cpp --- C++ source file 
 
