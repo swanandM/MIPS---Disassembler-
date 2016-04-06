@@ -1,6 +1,6 @@
 ﻿# MIPS --- Disassembler
 Author - Swanand Mhalagi
-.This is a 32-bit MIPS binary disassembler.
+This is a 32-bit MIPS binary disassembler.
 
 1)	MIPS-CProgram.cpp			    C++ source file 
 2)	Input					            text file already containing input.
